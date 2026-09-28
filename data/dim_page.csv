@@ -1,0 +1,13 @@
+PageKey,PagePath,PageType,Topic
+1,/,Home,General
+2,/services/interior-design,Service,Interiors
+3,/services/modular-kitchen,Service,Kitchen
+4,/services/wall-painting,Service,Painting
+5,/services/waterproofing,Service,Waterproofing
+6,/blog/false-ceiling-design-ideas,Blog,Ceiling
+7,/blog/wall-painting-cost-per-sq-ft,Blog,Painting
+8,/blog/modular-kitchen-cost-guide,Blog,Kitchen
+9,/blog/waterproofing-methods,Blog,Waterproofing
+10,/contact,Contact,General
+11,/projects,Portfolio,Interiors
+12,/about,About,General

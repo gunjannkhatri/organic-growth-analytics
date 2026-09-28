@@ -1,0 +1,23 @@
+QueryKey,Query,Intent,IsBranded
+1,brightnest interiors,Navigational,True
+2,brightnest interiors contact number,Navigational,True
+3,brightnest interiors reviews,Navigational,True
+4,interior designer near me,Transactional,False
+5,interior design services,Commercial,False
+6,home interior design cost,Commercial,False
+7,modular kitchen design,Commercial,False
+8,modular kitchen cost,Informational,False
+9,modular kitchen price list,Commercial,False
+10,wall painting cost per sq ft,Informational,False
+11,wall painting services,Transactional,False
+12,texture paint designs,Informational,False
+13,house painting contractors near me,Transactional,False
+14,waterproofing services,Transactional,False
+15,terrace waterproofing cost,Informational,False
+16,waterproofing methods for roof,Informational,False
+17,false ceiling design ideas,Informational,False
+18,false ceiling cost per sq ft,Informational,False
+19,pop ceiling design for hall,Informational,False
+20,living room interior ideas,Informational,False
+21,interior design portfolio,Commercial,False
+22,best interior designers,Commercial,False
